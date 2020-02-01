@@ -1,0 +1,6 @@
+C:\01ALP\ExamAbigailLeal\ExamAbigailLeal\bin\Debug\ExamAbigailLeal.exe.config
+C:\01ALP\ExamAbigailLeal\ExamAbigailLeal\bin\Debug\ExamAbigailLeal.exe
+C:\01ALP\ExamAbigailLeal\ExamAbigailLeal\bin\Debug\ExamAbigailLeal.pdb
+C:\01ALP\ExamAbigailLeal\ExamAbigailLeal\obj\Debug\ExamAbigailLeal.csprojAssemblyReference.cache
+C:\01ALP\ExamAbigailLeal\ExamAbigailLeal\obj\Debug\ExamAbigailLeal.exe
+C:\01ALP\ExamAbigailLeal\ExamAbigailLeal\obj\Debug\ExamAbigailLeal.pdb
